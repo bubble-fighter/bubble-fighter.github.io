@@ -1,5 +1,5 @@
 ---
 layout: home
 title: Demo
-permalink: /index/#demo
+permalink: /index.html#demo
 ---
