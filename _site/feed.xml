@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-05-06T09:57:55+05:30</updated><id>/feed.xml</id><title type="html">Bubble Fighter 💣</title><entry><title type="html">Theory of Affixes</title><link href="/jekyll/update/2018/11/06/Theory-of-Affixes.html" rel="alternate" type="text/html" title="Theory of Affixes" /><published>2018-11-06T07:52:31+05:30</published><updated>2018-11-06T07:52:31+05:30</updated><id>/jekyll/update/2018/11/06/Theory%20of%20Affixes</id><content type="html" xml:base="/jekyll/update/2018/11/06/Theory-of-Affixes.html"></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"></summary></entry><entry><title type="html">(NLP + HCI) × AI: Some Directions</title><link href="/jekyll/update/2018/05/25/NLP-+-HCI-with-AI-Some-Human-Directions.html" rel="alternate" type="text/html" title="(NLP + HCI) × AI: Some Directions" /><published>2018-05-25T07:52:31+05:30</published><updated>2018-05-25T07:52:31+05:30</updated><id>/jekyll/update/2018/05/25/NLP%20+%20HCI%20with%20AI-Some%20Human%20Directions</id><content type="html" xml:base="/jekyll/update/2018/05/25/NLP-+-HCI-with-AI-Some-Human-Directions.html">&lt;p&gt;NLP + HCI: A white canvas which NEEDS painting.&lt;/p&gt;
+
+&lt;p&gt;Synergy between NLP and HCI&lt;/p&gt;
+
+&lt;p&gt;Show them that white canvas, which is ready to be painted with the best colors.&lt;/p&gt;
+
+&lt;p&gt;AJ
+http://www.idc.iitb.ac.in/~anirudha/phdtopics.html&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Human-Centered Deep Learning.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Past:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;http://www.spencegreen.com/about/
+http://www.spencegreen.com/data/SpenceGreenCV.pdf
+https://www.youtube.com/watch?v=6aGVB-b3eqg&lt;/p&gt;
+
+&lt;p&gt;So this guys also, did it in Machine Translation. His initial paper says that purpose of NLP was to do task such as Translation and human intervention was necessary.&lt;/p&gt;
+
+&lt;p&gt;The first HCI conference was built by pshologist and Engineers.&lt;/p&gt;
+
+&lt;p&gt;http://repo.iitbhu.ac.in/db/2016/ir-2016-638/inucom_2016.pdf&lt;/p&gt;
+
+&lt;p&gt;https://halshs.archives-ouvertes.fr/halshs-00953658/document&lt;/p&gt;
+
+&lt;p&gt;https://cacm.acm.org/magazines/2015/9/191190-natural-language-translation-at-the-intersection-of-ai-and-hci/abstract&lt;/p&gt;
+
+&lt;p&gt;http://www.antonella_de_angeli.talktalk.net/files/Pdf/Bridging%20the%20gap%20between%20NLP%20and%20HCI%20A%20new%20synergy%20in%20the%20name%20of%20the%20user.pdf&lt;/p&gt;
+
+&lt;p&gt;https://www.rug.nl/research/portal/files/13577774/chi09_karamanis_etal.pdf&lt;/p&gt;
+
+&lt;p&gt;https://depts.washington.edu/hdsl/people/
+ctrl + f&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Present:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;HCI can be used to create AI Datasets.&lt;/p&gt;
+
+&lt;p&gt;Crowdsourcing.&lt;/p&gt;
+
+&lt;p&gt;Trends from CHI&lt;/p&gt;
+
+&lt;p&gt;Trends from ACL&lt;/p&gt;
+
+&lt;p&gt;Talking about Human Centered AI.&lt;/p&gt;
+
+&lt;p&gt;Stanford’s lastest offering: Stanford CDDRL
+What is HumanCentered AI.
+https://youtu.be/UVOFOA9gO8I?t=678&lt;/p&gt;
+
+&lt;p&gt;How to Make A.I. That’s Good for People - 
+Opinion article in NYTimes. 
+Fe Fe Li. 
+Computer Vision + HCI
+https://www.nytimes.com/2018/03/07/opinion/artificial-intelligence-human.html&lt;/p&gt;
+
+&lt;p&gt;MIT’s Human Centered AI lab.
+https://www.surveygizmo.com/s3/4319475/HCAI-Join-Our-Team
+https://hcai.mit.edu/?wppb_cpm_redirect=yes&lt;/p&gt;
+
+&lt;p&gt;Example of Human bias when you try to create a dataset.
+Short description of story during Summer School.
+(See video from Statistic course on Lynda.com)&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">NLP + HCI: A white canvas which NEEDS painting.</summary></entry><entry><title type="html">(NLP + HCI) × AI: Some Directions</title><link href="/jekyll/update/2018/05/25/NLP-+-HCI-with-AI-Some-Directions.html" rel="alternate" type="text/html" title="(NLP + HCI) × AI: Some Directions" /><published>2018-05-25T07:52:31+05:30</published><updated>2018-05-25T07:52:31+05:30</updated><id>/jekyll/update/2018/05/25/NLP%20+%20HCI%20with%20AI-Some%20Directions</id><content type="html" xml:base="/jekyll/update/2018/05/25/NLP-+-HCI-with-AI-Some-Directions.html">&lt;p&gt;NLP + HCI: A white canvas which NEEDS painting.&lt;/p&gt;
+
+&lt;p&gt;To discover the Genisis of&lt;/p&gt;
+
+&lt;p&gt;Synergy between NLP and HCI&lt;/p&gt;
+
+&lt;p&gt;Show them that white canvas, which is ready to be painted with the best colors.&lt;/p&gt;
+
+&lt;p&gt;AJ
+http://www.idc.iitb.ac.in/~anirudha/phdtopics.html&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Human-Centered Deep Learning.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Past:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;http://www.spencegreen.com/about/
+http://www.spencegreen.com/data/SpenceGreenCV.pdf
+https://www.youtube.com/watch?v=6aGVB-b3eqg&lt;/p&gt;
+
+&lt;p&gt;So this guys also, did it in Machine Translation. His initial paper says that purpose of NLP was to do task such as Translation and human intervention was necessary.&lt;/p&gt;
+
+&lt;p&gt;The first HCI conference was built by pshologist and Engineers.&lt;/p&gt;
+
+&lt;p&gt;http://repo.iitbhu.ac.in/db/2016/ir-2016-638/inucom_2016.pdf&lt;/p&gt;
+
+&lt;p&gt;https://halshs.archives-ouvertes.fr/halshs-00953658/document&lt;/p&gt;
+
+&lt;p&gt;https://cacm.acm.org/magazines/2015/9/191190-natural-language-translation-at-the-intersection-of-ai-and-hci/abstract&lt;/p&gt;
+
+&lt;p&gt;http://www.antonella_de_angeli.talktalk.net/files/Pdf/Bridging%20the%20gap%20between%20NLP%20and%20HCI%20A%20new%20synergy%20in%20the%20name%20of%20the%20user.pdf&lt;/p&gt;
+
+&lt;p&gt;https://www.rug.nl/research/portal/files/13577774/chi09_karamanis_etal.pdf&lt;/p&gt;
+
+&lt;p&gt;https://depts.washington.edu/hdsl/people/
+ctrl + f&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Present:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;HCI can be used to create AI Datasets.&lt;/p&gt;
+
+&lt;p&gt;Crowdsourcing.&lt;/p&gt;
+
+&lt;p&gt;Trends from CHI&lt;/p&gt;
+
+&lt;p&gt;Trends from ACL&lt;/p&gt;
+
+&lt;p&gt;Talking about Human Centered AI.&lt;/p&gt;
+
+&lt;p&gt;Stanford’s lastest offering: Stanford CDDRL
+What is HumanCentered AI.
+https://youtu.be/UVOFOA9gO8I?t=678&lt;/p&gt;
+
+&lt;p&gt;How to Make A.I. That’s Good for People - 
+Opinion article in NYTimes. 
+Fe Fe Li. 
+Computer Vision + HCI
+https://www.nytimes.com/2018/03/07/opinion/artificial-intelligence-human.html&lt;/p&gt;
+
+&lt;p&gt;MIT’s Human Centered AI lab.
+https://www.surveygizmo.com/s3/4319475/HCAI-Join-Our-Team
+https://hcai.mit.edu/?wppb_cpm_redirect=yes&lt;/p&gt;
+
+&lt;p&gt;Example of Human bias when you try to create a dataset.
+Short description of story during Summer School.
+(See video from Statistic course on Lynda.com)&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">NLP + HCI: A white canvas which NEEDS painting.</summary></entry><entry><title type="html">Summer of Research: SIGCHI Summer School</title><link href="/jekyll/update/2018/05/21/Summer-of-Research-copy.html" rel="alternate" type="text/html" title="Summer of Research: SIGCHI Summer School" /><published>2018-05-21T07:52:31+05:30</published><updated>2018-05-21T07:52:31+05:30</updated><id>/jekyll/update/2018/05/21/Summer%20of%20Research%20copy</id><content type="html" xml:base="/jekyll/update/2018/05/21/Summer-of-Research-copy.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Is your Statement Purposeless? Predicting Computer Science Graduation Admission Acceptance based on Statement Of Purpose</title><link href="/jekyll/update/2018/05/21/SOP.html" rel="alternate" type="text/html" title="Is your Statement Purposeless? Predicting Computer Science Graduation Admission Acceptance based on Statement Of Purpose" /><published>2018-05-21T07:52:31+05:30</published><updated>2018-05-21T07:52:31+05:30</updated><id>/jekyll/update/2018/05/21/SOP</id><content type="html" xml:base="/jekyll/update/2018/05/21/SOP.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Dual-Research Fellowship @IDC and @CS, IIT Bombay</title><link href="/jekyll/update/2017/08/25/Dual-Research-Internship-at-IDC,-IITB.html" rel="alternate" type="text/html" title="Dual-Research Fellowship @IDC and @CS, IIT Bombay" /><published>2017-08-25T07:52:31+05:30</published><updated>2017-08-25T07:52:31+05:30</updated><id>/jekyll/update/2017/08/25/Dual-Research%20Internship%20at%20IDC,%20IITB</id><content type="html" xml:base="/jekyll/update/2017/08/25/Dual-Research-Internship-at-IDC,-IITB.html">&lt;p&gt;Title:
+Deep Learning Lessons from Nvidia Internship
+If anyone from Nvidia is reading this, thank you for a wonderful experience.&lt;/p&gt;
+
+&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Title: Deep Learning Lessons from Nvidia Internship If anyone from Nvidia is reading this, thank you for a wonderful experience.</summary></entry><entry><title type="html">Internship Experience: NVIDIA-HARVARD, Deep Learning Engineering Intern</title><link href="/jekyll/update/2017/05/25/Nvidia-Internship-Experience.html" rel="alternate" type="text/html" title="Internship Experience: NVIDIA-HARVARD, Deep Learning Engineering Intern" /><published>2017-05-25T07:52:31+05:30</published><updated>2017-05-25T07:52:31+05:30</updated><id>/jekyll/update/2017/05/25/Nvidia%20Internship%20Experience</id><content type="html" xml:base="/jekyll/update/2017/05/25/Nvidia-Internship-Experience.html">&lt;style type=&quot;text/css&quot;&gt;
+
+.image
+{
+
+ float:left;
+ margin-top: 6px;
+ margin-right: 7px;
+ margin-bottom: -7px;  
+ height: 100px;
+ border: 5px;
+ border-radius: 5px;
+}
+
+body
+{
+	text-align: justify;
+}
+
+&lt;/style&gt;
+
+&lt;p&gt;&lt;img src=&quot;/imgs/cnn-architecture.png&quot; alt=&quot;image info&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;TASK:&lt;/code&gt; Brain Tumor Segmentation&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DATASET:&lt;/code&gt;
+&lt;!-- &lt;a href=&quot;http://www.twitter.com/shawtyanswers&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/imgs/shawtyanswers.jpg&quot; alt=&quot;Swaty&apos;s Image&quot; class=&quot;image&quot;&gt;&lt;/a&gt;
+&lt;a href=&quot;http://www.twitter.com/shawtyanswers&quot; target=&quot;_blank&quot;&gt; &lt;img src=&quot;/imgs/shawtyanswers.jpg&quot; alt=&quot;Swaty&apos;s Image&quot; class=&quot;image&quot; style=&quot;float:right;&quot;&gt;&lt;/a&gt; --&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Binary Class -&lt;/li&gt;
+  &lt;li&gt;No Class imbalance&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;INPUT:&lt;/code&gt; Image - 3D MRI Scan&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/imgs/dataset.jpg&quot; alt=&quot;drawing&quot; width=&quot;50%&quot; /&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;INPUT SIZE: (Width * Height * Channels (R,G,B))&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;PATH 1:&lt;/strong&gt;&lt;/span&gt;  : 25px * 25px * 3 (Normal resolution)&lt;/li&gt;
+  &lt;li&gt;&lt;span style=&quot;color:blue&quot;&gt;&lt;strong&gt;PATH 2:&lt;/strong&gt;&lt;/span&gt;  : 19px * 19px * 3  (Low resolution)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ARCHITECTURE:&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CONVOLUTION LAYERS (CONV)&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:green&quot;&gt;&lt;strong&gt;PATH 1:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CONV LAYER 1:&lt;/code&gt; &lt;span style=&quot;color:green&quot;&gt;21 * 21 * 3&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;#Filter: 30&lt;/td&gt;
+      &lt;td&gt;Size: 5 * 5 * 5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CONV LAYER 2:&lt;/code&gt; &lt;span style=&quot;color:green&quot;&gt;17 * 17 * 3&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;#Filter: 40&lt;/td&gt;
+      &lt;td&gt;Size: 5 * 5 * 5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CONV LAYER 3:&lt;/code&gt; &lt;span style=&quot;color:green&quot;&gt;13 * 13 * 3&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;#Filter: 40&lt;/td&gt;
+      &lt;td&gt;Size: 5 * 5 * 5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CONV LAYER 4:&lt;/code&gt; &lt;span style=&quot;color:green&quot;&gt;9 * 9 * 3&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;#Filter: 50&lt;/td&gt;
+      &lt;td&gt;Size: 5 * 5 * 5&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:blue&quot;&gt;&lt;strong&gt;PATH 2:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CONV LAYER 1:&lt;/code&gt; &lt;span style=&quot;color:blue&quot;&gt;15 * 15 * 3&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;#Filter: 30&lt;/td&gt;
+      &lt;td&gt;Size: 5 * 5 * 5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CONV LAYER 2:&lt;/code&gt; &lt;span style=&quot;color:blue&quot;&gt;11 * 11 * 3&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;#Filter: 40&lt;/td&gt;
+      &lt;td&gt;Size: 5 * 5 * 5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CONV LAYER 3:&lt;/code&gt; &lt;span style=&quot;color:blue&quot;&gt;7 * 7 * 3&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;#Filter: 40&lt;/td&gt;
+      &lt;td&gt;Size: 5 * 5 * 5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CONV LAYER 4:&lt;/code&gt; &lt;span style=&quot;color:blue&quot;&gt;3 * 3 * 3&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;#Filter: 50&lt;/td&gt;
+      &lt;td&gt;Size: 5 * 5 * 5&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CONVOLUTION OPERATION:&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Goal: To learn features and generates feature maps.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;CONVOLUTION OPERATION: This is the formula for computing featuer maps.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/imgs/convlutional_operation.png&quot; alt=&quot;drawing&quot; width=&quot;70%&quot; /&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;DIMENSIONS:&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;NO. OF PARAMETERS:&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;UPSAMPLING:&lt;/code&gt;&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/imgs/upsampling.png&quot; alt=&quot;drawing&quot; width=&quot;40%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;FULLY CONNECTED LAYER:&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Why?&lt;br /&gt;
+IN CNN, we combine all the features learnt together (FILTERS), and try classification.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:yellow&quot;&gt;&lt;strong&gt;LAYER 1:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;LAYER 1:&lt;/code&gt; &lt;span style=&quot;color:green&quot;&gt;9 * 9 * 3 &lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;#Filter: 150&lt;/td&gt;
+      &lt;td&gt;Size: 1 * 1 * 1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;LAYER 2:&lt;/code&gt; &lt;span style=&quot;color:green&quot;&gt;9 * 9 * 3&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;#Filter: 150&lt;/td&gt;
+      &lt;td&gt;Size: 1 * 1 * 1&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CLASSIFICATION LAYER:&lt;/code&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Softmax function&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;COST FUNCTION:&lt;/code&gt;&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/imgs/cost_cross_entrophy.png&quot; alt=&quot;drawing&quot; width=&quot;70%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;OPTIMIAZATION: STOCASTIC GRADIENT DESCEND&lt;/code&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;img src=&quot;/imgs/SGD.svg&quot; alt=&quot;drawing&quot; width=&quot;70%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CODE SAMPLE: KERAS | PYTORCH&lt;/code&gt;&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/nikhilwani/b920896b03abffd50a458d403f6d492c.js&quot;&gt;&lt;/script&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;EVALUATION: DICE SCORE&lt;/code&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;img src=&quot;/imgs/results.jpg&quot; alt=&quot;drawing&quot; width=&quot;70%&quot; /&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;FUTURE WORK: How to improve it?&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;M-RNNs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- &lt;br&gt; --&gt;
+
+&lt;!-- Title:
+*Deep* Learning Lessons from Nvidia Internship
+If anyone from Nvidia is reading this, thank you for a wonderful experience.
+
+
+
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/ --&gt;</content><author><name>Nikhil Wani | ~5 mins read</name></author><category term="jekyll" /><category term="update" /><summary type="html"></summary></entry><entry><title type="html">How do I disambigute the Indian Education System?</title><link href="/jekyll/update/2014/04/06/Indian-Education-System.html" rel="alternate" type="text/html" title="How do I disambigute the Indian Education System?" /><published>2014-04-06T07:52:31+05:30</published><updated>2014-04-06T07:52:31+05:30</updated><id>/jekyll/update/2014/04/06/Indian-Education-System</id><content type="html" xml:base="/jekyll/update/2014/04/06/Indian-Education-System.html"></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"></summary></entry></feed>
