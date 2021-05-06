@@ -1,5 +1,5 @@
 ---
 layout: home
 title: About Us
-permalink: /index.html/#about
+permalink: /index.html#about
 ---
