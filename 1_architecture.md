@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Architecture
-permalink: /index/#architecture
+permalink: /index.html#architecture
 ---
